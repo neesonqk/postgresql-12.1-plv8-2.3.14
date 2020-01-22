@@ -9,3 +9,7 @@
 3. enable plv8
 
 `CREATE EXTENSION plv8;`
+
+4. references: 
+
+  <1>. https://gist.github.com/asleepysamurai/5690830
